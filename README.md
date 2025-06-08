@@ -19,17 +19,12 @@
 #
 
 <div align="center">
-  <h3>~ Projetos em Produção ~</h3>
-
-  <a href="https://movelux.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Movelux-000?style=for-the-badge&logo=vercel&logoColor=16BDE4&color=000" alt="Movelux Site" />
-  </a>
-
+  <h3>~ Projetos Publicados ~</h3>
+  
+| Projeto                                         | Tecnologias    |
+|-------------------------------------------------|----------------|
+|<a href="https://movelux.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Movelux-000?style=for-the-badge&logo=vercel&logoColor=16BDE4&color=000" alt="Movelux Site" /></a>|<img src="https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white"/>  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white" />  <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB" />  <!--<br/>--><img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=3178C6" /> <img src="https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase&logoColor=FFC400"/>|
   <p>
-    <img src="https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white" />
-    <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=3178C6" />
   </p>
 </div>
 
