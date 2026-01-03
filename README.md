@@ -20,7 +20,7 @@
 -->
 
 <div align="center">
-  <h3>~ Projetos Publicados ~</h3>
+  <h3>~ Projetos Públicos ~</h3>
   
 | Projeto                                         | Tecnologias    |
 |-------------------------------------------------|----------------|
